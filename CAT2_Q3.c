@@ -1,3 +1,7 @@
+/*
+    Name: Cheruiyot Boniface
+    Reg No: CT100/G/20094/23
+*/
 #include <stdio.h>
 int main() {
     FILE *file;
